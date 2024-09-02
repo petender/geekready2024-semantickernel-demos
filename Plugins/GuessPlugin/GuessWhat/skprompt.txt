@@ -1,0 +1,3 @@
+Select a well-known landmark in a big city within {{$input}}. 
+Describe some facts about the history, tourism and culture of {{$input}}.
+Provide a brief description of no more than a paragraph.

@@ -1,0 +1,5 @@
+Tell me the IATA Airport code for the city below.
+
+[CITY]
+---------
+{{$input}}
